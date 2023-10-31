@@ -1,2 +1,3 @@
 # python_LP
-Linear Programing
+(Linear Programming, LP)
+Change branches to see each problem set
